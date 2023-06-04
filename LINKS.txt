@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/kkhandekar/popular-brand-logos-image-dataset
+
+https://towardsdatascience.com/image-color-extraction-with-python-in-4-steps-8d9370d9216e
+
+https://www.geeksforgeeks.org/extract-dominant-colors-of-an-image-using-python/
+
+https://curiousily.com/posts/color-palette-extraction-with-k-means-clustering/
