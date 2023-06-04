@@ -1,0 +1,77 @@
+image_id,image_name,hex_colors,color_classes
+0,abs-wheels-vector-logo-400x400.png,['#1D1D1B'],['black']
+1,abta-logo-vector-download-400x400.jpg,"['#FFFFFF', '#007AC7']","['white', 'blue']"
+2,ac-cuneo-1905-vector-logo-400x400.png,"['#FFFFFF', '#EF0000', '#CCAD08', '#BE0000', '#DDC747']","['white', 'red_light', 'orange_light', 'red_light', 'green_light']"
+3,Adidas-Trefoil-logo-vector-for-free-download.png,['#000000'],['black']
+4,adobe-eps-vector-logo-400x400.png,['#1D1D1B'],['black']
+5,afc-champions-league-logo.png,"['#00B3EF', '#000000', '#EF3829', '#FDB913', '#002F60', '#CCCCCC']","['blue_light', 'black', 'red_light', 'orange_light', 'blue_dark', 'white']"
+6,agoda-logo-preview-400x400.png,"['#929291', '#8150A0', '#2E7FC2', '#ED2024', '#21AE5C', '#F79E1C']","['grey_light', 'pink_dark', 'blue', 'red_light', 'green', 'orange_light']"
+7,Agribank-logo-400x400.png,"['#AE1C3F', '#006940', '#FFFFFF', '#671025', '#300711']","['red_dark', 'blue_dark', 'white', 'red_dark', 'black']"
+8,aguilas-del-america-vector-logo-400x400.png,"['#005592', '#FCE800']","['blue_dark', 'yellow_dark']"
+9,Android-app-on-Google-play-badge-vector.png,"['#A6A8AB', '#231F20', '#F9F9F9']","['grey_light', 'black', 'white']"
+10,android-pay-logo.png,"['#FFFFFF', '#78C259', '#C7C6C5']","['white', 'green', 'grey_light']"
+11,apple-classic-rainbow-vector-logo-400x400.png,"['#69B012', '#C62D32', '#E68302', '#F8BB13', '#862872', '#1390D0']","['green', 'red_light', 'orange_dark', 'orange_light', 'pink_dark', 'blue']"
+12,audi-logo-vector-download-400x400.jpg,"['#FFFFFF', '#4C4C4C', '#D03038']","['white', 'grey_dark', 'red_light']"
+13,avg-antivirus-logo-400x400.png,"['#000000', '#00678F', '#388033', '#BD131A', '#D4762A']","['black', 'blue_dark', 'grey_dark', 'red_light', 'orange_dark']"
+14,bmw-m-series-vector.gif,"['#FCFEFC', '#3C3234']","['white', 'violett']"
+15,bmw-vector-logo-400x400.png,"['#000000', '#FDFDFD', '#97999C', '#00A4E0', '#464C4D', '#CDD9E0']","['black', 'white', 'grey_light', 'blue', 'grey_dark', 'white']"
+16,brasao-de-armas-do-estado-de-sao-paulo-logo-vector-400x400.png,"['#EC1C24', '#231F20', '#FFFFFF', '#00A551', '#D0D2D3']","['red_light', 'black', 'white', 'blue_dark', 'white']"
+17,burger-king-vector-400x400.jpg,"['#FFFFFF', '#EE1C25', '#174B9F', '#FFCA08']","['white', 'red_light', 'blue_dark', 'yellow_dark']"
+18,coca-cola-bottle-logo-vector-400x400.png,"['#E41E31', '#FFFFFF', '#681D06', '#B11423']","['red_light', 'white', 'red_dark', 'red_light']"
+19,cork-city-fc-current-vector-logo-400x400.png,"['#000000', '#FE070A', '#FFFFFF', '#195A22']","['black', 'red_light', 'white', 'grey_dark']"
+20,cork-city-fc-old-vector-logo-400x400.png,"['#C31929', '#FFFFFF']","['red_light', 'white']"
+21,CSS3-logo-vector-400x400.png,"['#1F62AE', '#000000', '#FBFBFB', '#3C9BD5']","['blue', 'black', 'white', 'blue_light']"
+23,deftones-logo-vector-400x400.png,"['#EC1C24', '#FFFFFF']","['red_light', 'white']"
+24,disneys-zazu-logo-vector-400x400.png,"['#00A5E2', '#000000', '#2E3291', '#FFFFFF', '#F04E27', '#C4DCE4', '#F6A22D']","['blue', 'black', 'blue_dark', 'white', 'orange_dark', 'white', 'orange_light']"
+25,eni-logo.png,"['#FFD200', '#000000']","['yellow_dark', 'black']"
+26,escudo-de-estados-unidos-mexicanos-logo-vector-400x400.png,"['#231F20', '#854A00', '#808184', '#BF6616', '#047E5B', '#599F56', '#00753D']","['black', 'red_dark', 'grey_light', 'orange_dark', 'blue_dark', 'green', 'blue_dark']"
+27,escudo-de-sinaloa-logo-vector-400x400.png,"['#BD1934', '#231F20', '#952F34', '#7AAEDD', '#EC1B2E', '#FBAE17', '#945436']","['red_light', 'black', 'red_dark', 'blue_light', 'red_light', 'orange_light', 'brown']"
+28,escudo-del-peru-logo-vector-400x400.png,"['#EC1C24', '#FFFFFF', '#231F20', '#FFF100', '#FFCA05', '#00ADEE']","['red_light', 'white', 'black', 'yellow_dark', 'yellow_dark', 'blue_light']"
+29,escudo-nacional-mexicano-logo-vector-400x400.png,['#000000'],['black']
+30,everton-fc-logo-preview-400x400.png,"['#274488', '#000000', '#FFFFFF']","['blue_dark', 'black', 'white']"
+31,ferrari-logo-vector-400x400.png,['#231F20'],['black']
+32,fiat-new-logo-vector-400x400.png,['#000000'],['black']
+33,fidodido-from-7up-logo-vector-400x400.png,['#000000'],['black']
+34,Google-Chrome-Icon-vector-01.png,"['#F3CE12', '#000000', '#00AB00', '#E40004', '#B90108', '#5ACB5D', '#3987E3', '#4D4A49']","['yellow_dark', 'black', 'green', 'red_light', 'red_light', 'green', 'blue_light', 'grey_dark']"
+35,Google-Chrome-logo-vector-download.png,"['#FADA06', '#EF3D36', '#5FBD5B', '#4186C6', '#FFFFFF']","['yellow_dark', 'red_light', 'green', 'blue', 'white']"
+36,Google-Drive-logo-vector.png,"['#517ABD', '#FDD14B', '#2DB672', '#676767']","['blue', 'yellow_dark', 'green', 'grey_dark']"
+37,google-drive-logo.png,"['#0DA960', '#FBCB43', '#2F77EF']","['blue_dark', 'yellow_dark', 'blue']"
+38,google-favicon-vector-400x400.png,"['#000000', '#E74133', '#32A753', '#3E82F1']","['black', 'red_light', 'green', 'blue_light']"
+39,google-home-logo.png,"['#4586F7', '#FFFFFF', '#EC5043', '#3BAB59', '#FDC00D']","['blue_light', 'white', 'orange_dark', 'green', 'orange_light']"
+40,google-photos-logo-vector-download-400x400.jpg,"['#FFFFFF', '#4875B9', '#FCB913', '#5DAE47', '#DE3E26']","['white', 'blue', 'orange_light', 'green', 'red_light']"
+41,google-play-music-logo-400x400.png,"['#000000', '#FFD119', '#F44B22', '#FF8C00']","['black', 'yellow_dark', 'red_light', 'orange_dark']"
+42,h-m-logo-400x400.png,['#CD2026'],['red_light']
+43,honda-bike-vector-400x400.jpg,"['#FFFFFF', '#F00001']","['white', 'red_light']"
+44,honda-logo-vector-download-400x400.jpg,['#FFFFFF'],['white']
+45,il-sandviken-vector-logo-400x400.png,"['#FF1100', '#FFFFFF']","['red_light', 'white']"
+46,instagram-icon-circle-vector-logo-400x400.png,"['#C2B59B', '#41312C', '#957D60', '#E7E0D6', '#737A7C', '#000000', '#654F46']","['grey_light', 'violett', 'brown', 'white', 'brown', 'black', 'grey_dark']"
+47,instagram-icon-vector-logo-400x400.png,"['#D6C9B5', '#5D4D48', '#232E47', '#546469', '#3B241B']","['grey_light', 'grey_dark', 'violett', 'grey_dark', 'black']"
+48,Instagram-logo-400x400.png,"['#D42F86', '#F05943', '#E23568', '#B531A3', '#873EAD', '#FCAB48', '#C62F95', '#F68738']","['pink_light', 'orange_dark', 'pink_light', 'pink_light', 'pink_dark', 'orange_light', 'pink_light', 'orange_dark']"
+49,instagram-logo-vector-download-400x400.jpg,"['#FFFFFF', '#5B6CB2', '#D4436E', '#C32D87', '#F9B961', '#AF4590', '#8160A5']","['white', 'blue', 'pink_light', 'pink_light', 'yellow_dark', 'pink_dark', 'grey_light']"
+50,kfc-new-vector-400x400.jpg,"['#FFFFFF', '#C51230', '#231F20']","['white', 'red_light', 'black']"
+51,krc-genk-vector-logo-400x400.png,['#0D4991'],['blue_dark']
+52,ks-alapaw-slawa-slawecin-vector-logo-400x400.png,"['#FFFFFF', '#000000', '#FF0000', '#4DAC27']","['white', 'black', 'red_light', 'green']"
+53,lg-vector-logo-400x400.png,"['#C4024B', '#73797C', '#FFFFFF']","['red_dark', 'brown', 'white']"
+54,lidl-vector-logo-400x400.png,"['#1B2F91', '#FFFF00']","['blue_dark', 'yellow_light']"
+55,linkedin-logo-vector-download-400x400.jpg,"['#FFFFFF', '#007BB6']","['white', 'blue']"
+56,mcdonald-vector-400x400.jpg,"['#FFFFFF', '#C52F30', '#F8AF25']","['white', 'red_light', 'orange_light']"
+57,mit-logo-vector-download-400x400.jpg,"['#FFFFFF', '#DAABB3', '#FFE3EA', '#956670']","['white', 'grey_light', 'white', 'brown']"
+58,mitsubishi-logo-vector.jpg,"['#FFFFFF', '#ED1B24']","['white', 'red_light']"
+59,nike-logo-vector-download-400x400.jpg,"['#FFFFFF', '#231F20']","['white', 'black']"
+60,prada-logo-vector-01.png,['#000000'],['black']
+61,shell-logo-400x400.png,"['#FFF100', '#EC1C24', '#231F20']","['yellow_dark', 'red_light', 'black']"
+62,shopify-logomark-logo.png,"['#95BF47', '#5E8E3E', '#FFFFFF']","['green', 'green', 'white']"
+63,starbucks-coffee-eps-vector-logo-400x400.png,"['#00724E', '#FFFFFF', '#1D1D1B']","['blue_dark', 'white', 'black']"
+64,suzuki-eps-vector-logo-400x400.png,['#FF0016'],['red_light']
+65,tesla-motors-logo-vector-400x400.png,"['#D0D9DF', '#142733', '#768794']","['white', 'black', 'grey_light']"
+66,tesla-vector-logo-400x400.png,"['#E31837', '#FFFFFF']","['red_light', 'white']"
+67,twitter-logo.png,['#1DA1F2'],['blue_light']
+68,under-armour-eps-vector-logo-400x400.png,['#000000'],['black']
+69,unilever-logo-01.png,['#000000'],['black']
+70,uniqlo-logo-preview-400x400.png,"['#EC1C24', '#FFFFFF', '#000000']","['red_light', 'white', 'black']"
+71,versace-medusa-vector-logo-400x400.png,['#000000'],['black']
+72,vespa-moto-vector-logo-400x400.png,['#312782'],['violett']
+73,volkswagen-auto-eps-vector-logo-400x400.png,"['#00509F', '#FFFFFF']","['blue_dark', 'white']"
+74,volvo-cars-vector-logo-400x400.png,"['#FFFFFF', '#28367B', '#808080', '#B1B1B1']","['white', 'blue_dark', 'brown', 'grey_light']"
+75,warner-bros-black-vector-logo-400x400.png,['#000000'],['black']
+76,wendys-logo-01.png,"['#DC163B', '#FCDAD7', '#342019', '#FFFFFF', '#9D022E']","['red_light', 'white', 'black', 'white', 'red_dark']"
